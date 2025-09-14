@@ -118,6 +118,9 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-beautiful-people.xhtml"/>
+		<itemref idref="elegy.xhtml"/>
+		<itemref idref="traumerei.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
