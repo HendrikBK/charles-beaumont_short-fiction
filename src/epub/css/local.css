@@ -19,3 +19,8 @@ footer{
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
+
+/* Inner thoughts in "Elegy" */
+q{
+	font-style: italic;
+}
